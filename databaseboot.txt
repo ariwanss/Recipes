@@ -1,0 +1,47 @@
+{
+    "email": "ariwan@gmail.com",
+    "password": "password123"
+}
+
+{
+    "email": "januar@gmail.com",
+    "password": "password123"
+}
+
+{
+    "email": "edward@hotmail.com",
+    "password": "password123"
+}
+
+
+{
+    "name": "Super Delicious Ice Cream",
+    "category": "Dessert",
+    "description": "A super delicious ice cream",
+    "ingredients": ["ingredient1", "ingredient2", "ingredient3"],
+    "directions": ["step1", "step2", "step3", "step4", "step5"]
+}
+
+{
+    "name": "Not So Delicious Ice Cream",
+    "category": "Dessert",
+    "description": "A mediocre ice cream",
+    "ingredients": ["ingredient1", "ingredient2", "ingredient3"],
+    "directions": ["step1", "step2", "step3", "step4", "step5"]
+}
+
+{
+    "name": "Boba Milk Tea",
+    "category": "Beverages",
+    "description": "Milk tea with tapioca pearls",
+    "ingredients": ["ingredient1", "ingredient2", "ingredient3", "ingredient4"],
+    "directions": ["step1", "step2", "step3", "step4", "step5", "step6"]
+}
+
+{
+    "name": "Pepperoni Pizza",
+    "category": "Food",
+    "description": "A pepperoni pizza",
+    "ingredients": ["ingredient1", "ingredient2", "ingredient3", "ingredient4", "ingredient5"],
+    "directions": ["step1", "step2", "step3", "step4", "step5", "step6", "step7"]
+}
